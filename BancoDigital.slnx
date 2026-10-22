@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BancoDigital.API/BancoDigital.API.csproj" />
+  <Project Path="BancoDigital.Application/BancoDigital.Application.csproj" Id="639eb295-8283-4ce0-af39-2a3cf3f03ea6" />
+  <Project Path="BancoDigital.Domain/BancoDigital.Domain.csproj" />
+  <Project Path="BancoDigital.Infrastructure/BancoDigital.Infrastructure.csproj" Id="17bd6035-773c-4a43-a259-a30ab58f2c51" />
+  <Project Path="BancoDigital.Tests/BancoDigital.Tests.csproj" />
+</Solution>
